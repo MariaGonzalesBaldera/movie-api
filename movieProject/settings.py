@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-gyit=bkbe=3cedbz-*$r5e5vq!uy!pyr(qu-8$rmy@mxjrc@u0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['movie-api.up.railway.app']
+ALLOWED_HOSTS = ['movie-api.up.railway.app','movie-api-production-2fe7.up.railway.app']
 CSRF_TRUSTED_ORIGINS = ['https://movie-api.up.railway.app']
 
 # Application definition
